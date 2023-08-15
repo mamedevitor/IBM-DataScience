@@ -17,5 +17,5 @@ This course teaches Python fundamentals, including data structures and data anal
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/577c9bcf07459df260d54cce8f09469f"><img src="https://github.com/mamedevitor/IBM-DataScience/assets/83721127/843dbab7-f560-4782-ab76-879a69346564" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/LMUXV2RSKXLQ"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83721127/260602597-843dbab7-f560-4782-ab76-879a69346564.png" height="430"></a>
 </p>
