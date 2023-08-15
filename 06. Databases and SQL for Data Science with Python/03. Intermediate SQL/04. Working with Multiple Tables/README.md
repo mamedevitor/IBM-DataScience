@@ -1,10 +1,10 @@
 # Working with Multiple Tables
 There are 3 main ways of accessing multiple tables in the same query:
-1. Sub-queries, introduced [here](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/03.%20Intermediate%20SQL/03.%20Sub-Queries%20and%20Nested%20SELECTS)
+1. Sub-queries, introduced here
 2. Implicit `JOIN`
 3. `JOIN` operators (`INNER JOIN`, `OUTER JOIN`, etc.)
 
-This section will only consider the first two methods, as the latter is covered in the following module: [Bonus Module - Advanced SQL for Data Engineering](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/06.%20Bonus%20Module%20-%20Advanced%20SQL%20for%20Data%20Engineering)
+This section will only consider the first two methods, as the latter is covered in the following module: Bonus Module - Advanced SQL for Data Engineering
 
 ## Multiple Tables with Sub-Queries
 To explain sub-queries with multiple tables, the following tables will be used in some examples.
