@@ -47,5 +47,5 @@ The following Python libraries were used throughout the certification: <br>
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
-
+<a href="https://coursera.org/verify/professional-cert/STLAZ8VW6REZ"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83721127/260717456-639e1b9e-ae0b-4748-83c1-b5f7b6c2182e.png" height="420"></a>
 
