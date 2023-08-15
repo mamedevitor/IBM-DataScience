@@ -18,5 +18,5 @@ This course provides an introduction to the common programming languages used by
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/fc6414fbd3299902d096e489e1d00161"><img src="https://github.com/mamedevitor/IBM-DataScience/assets/83721127/575da28a-4ac9-4046-a21a-41f9a6aa21a8" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/NRUG5QGZBJ7L"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83721127/260602168-575da28a-4ac9-4046-a21a-41f9a6aa21a8.png" height="430"></a>
 </p>
