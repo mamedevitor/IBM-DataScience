@@ -10,7 +10,7 @@ This module will look at three main types of clustering algorithms and their cha
 ### Partition-based Clustering
 Partition-based clustering is a group of clustering algorithms that produces sphere-like clusters, such as; K-Means, K-Medians or Fuzzy c-Means. These algorithms are relatively efficient and are used for medium and large sized databases. Hierarchical clustering algorithms produce trees of clusters, such as agglomerative and divisive algorithms. This group of algorithms are very intuitive and are generally good for use with small size datasets. 
 
-The algorithm explored in this module is [k-means clustering](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/04.%20Clustering/01.%20k-Means.ipynb), with 2 examples:
+The algorithm explored in this module is k-means clustering, with 2 examples:
 
 <ol>
  <li> 
@@ -32,7 +32,7 @@ Hierarchical clustering algorithms build a hierarchy of clusters where each node
 
 The agglomerative approach is more popular among data scientists and is considered in this course.
 
-Again, [2 examples](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/04.%20Clustering/02.%20Agglomerative%20Clustering.ipynb) are used to explore this algorithm:
+Again, 2 examples are used to explore this algorithm:
 
 <ol>
  <li> A random dataset of blobs </li>
@@ -86,7 +86,7 @@ The algorithm visits all the points in the dataset and labels them as either cor
 For example, for `R=2`, `M=6`, the following clusters are created:
 ![image](https://user-images.githubusercontent.com/84391594/153778871-ee862098-2b00-4cba-9fd6-13046c76cd87.png)
 
-This module explores the example of [Weather Station Clustering using DBSCAN & scikit-learn](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/04.%20Clustering/03.%20Density-based%20Clustering.ipynb), where we can see the clustering of stations based on their location, mean, max, and min temperature:
+This module explores the example of Weather Station Clustering using DBSCAN & scikit-learn, where we can see the clustering of stations based on their location, mean, max, and min temperature:
 
 ![weather_station_clustering](https://user-images.githubusercontent.com/84391594/156932728-d8576855-9fd8-4fb4-9005-c20eff202e67.png)
 
