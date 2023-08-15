@@ -18,5 +18,5 @@ This course is intended to demonstrate foundational Python skills for working wi
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/ac5cf41db59b19bc8711903746005386"><img src="https://github.com/mamedevitor/IBM-DataScience/assets/83721127/b3b9be23-0490-4c94-b96b-8c5c1ba70abc" height="430"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/XMAPYCYJYDKJ"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/83721127/260603070-b3b9be23-0490-4c94-b96b-8c5c1ba70abc.png" height="430"></a>
 </p>
